@@ -24,3 +24,7 @@ Support translation to multiple languages
 Verifying the equity of math equations in the image
 Increasing the efficiency of the processing pipeline
 Find sources/websites with similar concepts in the document
+
+![gallery](https://user-images.githubusercontent.com/89934290/142909923-96761f10-d053-40d5-bb1e-cb7df037445e.jpg)
+![vlcsnap-2021-11-22-09h41m08s059](https://user-images.githubusercontent.com/89934290/142909926-181becc4-0ebf-4abd-ae6e-1f7734d77721.png)
+![gallery (1)](https://user-images.githubusercontent.com/89934290/142909930-a324acb9-d8e6-4f36-9c97-5494c86cd135.jpg)
