@@ -160,7 +160,7 @@ class App extends Component {
                 <div className={classes.content}>
                     <Paper className={classes.buttonContainer}>
                         <Typography variant="h1" align="center" gutterBottom>
-                            IsoMath
+                            unClutter
                         </Typography>
                         <Typography
                             className={classes.instructions}
