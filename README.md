@@ -1,5 +1,5 @@
 # unClutter
-Created by Tanay Patil, Abijit, Girish Krishnan
+Created by Tanay Patil, Abijit, Girish Krishnan\
 For more info, check out [our devpost](https://devpost.com/software/unclutter)
 
 ## Inspiration
@@ -21,10 +21,10 @@ Successfully created a web application with OpenCV and Clean UX design. Working 
 We learned how to use OpenCV to extract blocks of features, configure and use the many different offerings from Azure (Blob Storage, Bing Spell Check, VM, DNS)
 
 ## What's next for unClutter
-Improving the accuracy of equation recognition
-Support translation to multiple languages
-Verifying the equity of math equations in the image
-Increasing the efficiency of the processing pipeline
+Improving the accuracy of equation recognition\
+Support translation to multiple languages\
+Verifying the equity of math equations in the image\
+Increasing the efficiency of the processing pipeline\
 Find sources/websites with similar concepts in the document
 
 ![gallery](https://user-images.githubusercontent.com/89934290/142909923-96761f10-d053-40d5-bb1e-cb7df037445e.jpg)
