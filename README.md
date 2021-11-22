@@ -1,4 +1,6 @@
-Check out our Devpost submission-https://devpost.com/software/unclutter
+# unClutter
+Created by Tanay Patil, Abijit, Girish Krishnan
+For more info, check out [our devpost](https://devpost.com/software/unclutter)
 
 ## Inspiration
 A properly formatted and typeset document benefits everyone. Nobody likes to look at messy handwritten math, whether that be the TA grading your homework, your friends asking for help, or even yourself when you're trying to go through notes. Over the past week, my teammates and I lost a couple of points on a Math test just because the TAs couldn't read out work and we don't want that to happen again😅.
