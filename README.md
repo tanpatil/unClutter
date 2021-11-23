@@ -1,5 +1,5 @@
 # unClutter
-Created by Tanay Patil, Abijit, Girish Krishnan\
+Created by Tanay Patil, Abijit, Girish Krishnan for MetroHacks 2021\
 For more info, check out [our devpost](https://devpost.com/software/unclutter)
 
 ## Inspiration
